@@ -6,7 +6,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://www.dawninternet.com/register/?referralCode=fsls9vm7)
+> > > Help me with your referral > Referral Code: `fsls9vm7`
 
 ## 🚀 Getting Started
 
@@ -32,9 +32,16 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "timeZone": "en-US",
+  "rotateProxy": true,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": ""
 }
 ```
 
