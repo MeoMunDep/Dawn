@@ -37,9 +37,6 @@ create_default_configs() {
     "delayEachAccount": [5, 8],
     "timeToRestartAllAccounts": 300,
     "howManyAccountsRunInOneTime": 10,
-    "doTasks": true,
-    "playGames": true,
-    "referralCode": ""
 }
 EOL
 }
@@ -55,7 +52,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    name BOT SETUP AND RUN SCRIPT"
+    echo "    Dawn BOT SETUP AND RUN SCRIPT by @MeoMunDep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
@@ -115,7 +112,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            node bot
+            cd dawn && node bot
             read -p "Press Enter to continue..."
             ;;
         4)
