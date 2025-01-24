@@ -83,7 +83,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd dawn && node bot
+node MeoMunDep
 pause
 goto MENU
 

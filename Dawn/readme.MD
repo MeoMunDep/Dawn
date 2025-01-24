@@ -50,15 +50,15 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Email
+### 1. `tokens.txt` ✔️ - How to get token >>> [Link](https://t.me/KeoAirDropFreeNee/1265)
 
 ```txt
-xyz@gmail.com
-xyz@gmail.com
-xyz@gmail.com
+abc...xyz
+abc...xyz
+abc...xyz
 ```
 
-### 3. `wallets.txt` 💼 - Cannot update yet.
+### 2. `wallets.txt` 💼 - Cannot update yet.
 
 ```txt - wallet address
 abc...xyz
@@ -66,7 +66,7 @@ abc...xyz
 abc...xyz
 ```
 
-### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
+### 3. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
 
 ```txt
 http://user:password@host:port
@@ -75,17 +75,11 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
-### 5. `tokens.txt` ✔️ - How to get token >>> [Link](https://t.me/KeoAirDropFreeNe/257/5786)
 
-```txt
-abc...xyz
-abc...xyz
-abc...xyz
-```
 
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd dawn-main/dawn; node bot `
+> To run the bot, use the following command: `cd dawn-main/dawn; node meomundep `
 
 🎇Enjoy!
