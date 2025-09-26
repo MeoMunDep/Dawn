@@ -27,7 +27,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-proxy-agent crypto ws
+   npm i user-agents axios meo-forkcy-proxy meo-forkcy-utils meo-forkcy-logger meo-forkcy-colors
    ```
 
 2. **Prepare Configuration Files:**
@@ -86,6 +86,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd dawn-main/dawn; node meomundep `
+> To run the bot, use the following command: `cd dawn; node meomundep `
 
 🎇Enjoy!
