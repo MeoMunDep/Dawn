@@ -50,7 +50,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 1. `tokens.txt` ✔️ - How to get token >>> [Link](https://t.me/KeoAirDropFreeNee/1265)
+### 1. `tokens.txt` ✔️ - How to get token >>> [Link](https://t.me/KeoAirDropFreeNee/1955)
 
 ```txt
 abc...xyz
